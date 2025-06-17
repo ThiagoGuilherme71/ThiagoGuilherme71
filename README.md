@@ -3,6 +3,8 @@
 Me chamo Thiago Guilherme, sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualmente, sou Desenvolvedor Junior na [JCompany]([https://semge.salvador.ba.gov.br/](https://jcompanyti.com.br/)), onde atuo no desenvolvimento e manutenção de aplicações web utilizando PHP/Laravel, Docker e FireBird.
 Tenho uma boa base em lógica de programação e sempre busco aprimorar minhas habilidades para me tornar um desenvolvedor ainda melhor. Acredito que o trabalho em equipe é essencial para o sucesso e adoro trocar ideias, colaborar e aprender com os outros.
 
+### 🚀 Acompanhe meu progresso no [WakaTime](https://wakatime.com/@ThiagoGuilherme71) e veja meu tempo codando e stacks que uso no meu dia-a-dia!
+
 <p align="left">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/thiagoguilhermebarbosa" target="_blank">
