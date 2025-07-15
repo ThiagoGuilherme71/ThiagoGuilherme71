@@ -138,3 +138,8 @@ Tenho uma boa base em lógica de programação e sempre busco aprimorar minhas h
   />
 
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThiagoGuilherme71/output/main/dist/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+</p>
+
