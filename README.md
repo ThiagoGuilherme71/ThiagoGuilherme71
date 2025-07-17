@@ -73,13 +73,36 @@ Tenho uma boa base em lógica de programação e sempre busco aprimorar minhas h
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native" 
+    title="React Native"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -104,7 +127,6 @@ Tenho uma boa base em lógica de programação e sempre busco aprimorar minhas h
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
 <img 
     align="left" 
     alt="JQuery" 
@@ -120,24 +142,19 @@ Tenho uma boa base em lógica de programação e sempre busco aprimorar minhas h
 
 
 ### 📊 Estatísticas
-
-<p>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <img 
-    align="left" 
+    alt="GitHub Streak Stats" 
+    height="150" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoGuilherme71&theme=tokyonight" 
+  />
+  <img 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoGuilherme71&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+</div>
+<br/>
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/ThiagoGuilherme71/ThiagoGuilherme71/output/pacman-contribution-graph-dark.svg)
 
