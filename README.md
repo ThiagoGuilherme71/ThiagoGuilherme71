@@ -156,6 +156,5 @@ Tenho uma boa base em lógica de programação e sempre busco aprimorar minhas h
 </div>
 <br/>
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/ThiagoGuilherme71/ThiagoGuilherme71/output/pacman-contribution-graph-dark.svg)
 
 
