@@ -1,4 +1,4 @@
-## Thiago Guilherme 👨🏽‍💻
+## Thiago Guilherme | Developer
 
 Me chamo Thiago Guilherme, sou graduado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e como ela pode ajudar pessoas. Atualmente, sou Desenvolvedor Junior na [JCompany](https://jcompanyti.com.br/) , onde atuo no desenvolvimento e manutenção de aplicações web utilizando PHP/Laravel, Docker e FireBird.
 Tenho uma boa base em lógica de programação e sempre busco aprimorar minhas habilidades para me tornar um desenvolvedor ainda melhor. Acredito que o trabalho em equipe é essencial para o sucesso e adoro trocar ideias, colaborar e aprender com os outros.
