@@ -1,7 +1,7 @@
 ## Thiago Guilherme | Software Developer
 
-Olá, sou Thiago Guilherme, Desenvolvedor Full-Stack (foco em backend) graduado em Análise e Desenvolvimento de Sistemas (UCSAL), otimista de tecnologia e como ela pode ajudar pessoas. Atualmente, sou Desenvolvedor Web Júnior, atuando no desenvolvimento e manutenção de aplicações utilizando PHP/Laravel, Docker e FireBird. 
-Tenho uma boa base em lógica de programação e sempre busco aprimorar minhas habilidades para me tornar um desenvolvedor ainda melhor. Acredito que o trabalho em equipe é essencial para o sucesso e gosto de trocar ideias, colaborar e aprender com os outros. 
+Olá, sou Thiago Guilherme, Desenvolvedor Full-Stack com foco em Backend, graduado em Análise e Desenvolvimento de Sistemas (UCSAL), otimista de tecnologia e como ela pode ajudar pessoas.
+Atualmente sou Desenvolvedor Web Júnior, atuando no desenvolvimento e manutenção de aplicações web com PHP/Laravel, Docker e FireBird. Tenho ano de experiência no mercado construindo e mantendo soluções escaláveis trabalhando colaborativamente em equipe para entregar serviço de qualidade.
 
 ### 🚀 Acompanhe meu desempenho no [WakaTime](https://wakatime.com/@ThiagoGuilherme71) e veja meu tempo codando e stacks que uso no meu dia a dia!
 
