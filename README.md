@@ -3,7 +3,7 @@
 Olá, sou Thiago Guilherme, Desenvolvedor Full-Stack com foco em Backend, graduado em Análise e Desenvolvimento de Sistemas (UCSAL), otimista de tecnologia e como ela pode ajudar pessoas.
 Atualmente sou Desenvolvedor Web Júnior, atuando no desenvolvimento e manutenção de aplicações web com PHP/Laravel, Docker e FireBird. Tenho experiência no mercado construindo e mantendo soluções escaláveis trabalhando colaborativamente em equipe para entregar serviço de qualidade.
 
-[![wakatime](https://wakatime.com/badge/user/32e03382-7f43-4fd2-ada4-4f396343da81.svg)](https://wakatime.com/@32e03382-7f43-4fd2-ada4-4f396343da81)
+[![wakatime](https://wakatime.com/badge/user/32e03382-7f43-4fd2-ada4-4f396343da81.svg?style=for-the-badge)](https://wakatime.com/@32e03382-7f43-4fd2-ada4-4f396343da81)
 
 <p align="left">
     <!-- LinkedIn -->
