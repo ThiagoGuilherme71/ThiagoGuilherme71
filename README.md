@@ -1,160 +1,110 @@
-## Thiago Guilherme | Software Developer
+# Thiago Guilherme | Desenvolvedor de Software
 
-Olá, sou Thiago Guilherme, Desenvolvedor Full-Stack com foco em Backend, graduado em Análise e Desenvolvimento de Sistemas (UCSAL), otimista de tecnologia e como ela pode ajudar pessoas.
-Atualmente sou Desenvolvedor Web Júnior, atuando no desenvolvimento e manutenção de aplicações web com PHP/Laravel, Docker e FireBird. Tenho experiência no mercado construindo e mantendo soluções escaláveis trabalhando colaborativamente em equipe para entregar serviço de qualidade.
-
-[![wakatime](https://wakatime.com/badge/user/32e03382-7f43-4fd2-ada4-4f396343da81.svg?style=for-the-badge)](https://wakatime.com/@32e03382-7f43-4fd2-ada4-4f396343da81)
-
-<p align="left">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/thiagoguilhermebarbosa" target="_blank">
-        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-            style="margin-right: 10px;"/>
-    </a>
-    <a href="https://github.com/ThiagoGuilherme71" target="_blank">
-        <img alt="GitHub" title="Confira meu GitHub" 
-            src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-            style="margin-right: 10px;"/>
-    </a>
-  <a href="mailto:thiagoguilherme.barbosaa@gmail.com">
-        <img alt="E-mail" title="Me envie um e-mail" 
-            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-            style="margin-right: 10px;"/>
-    </a>
-  <a href="https://wa.me/5571986949813" target="_blank">
-        <img alt="WhatsApp" title="Fale comigo no WhatsApp" 
-            src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    </a>
-</p>
-
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React Native" 
-    title="React Native"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-
-
-<br/>
-<br/>
-
-
-### 📊 Estatísticas
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img 
-    alt="GitHub Streak Stats" 
-    height="150" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoGuilherme71&theme=tokyonight" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack;Backend+Specialist;Problem+Solver)](https://git.io/typing-svg)
+  
+  **Salvador, BA 🇧🇷 | Transformando café em código desde 2023 ☕→💻**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguilhermebarbosa)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986949813)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/ThiagoGuilherme71)
 </div>
-<br/>
+
+---
+
+## 🚀 Sobre Mim
+
+```javascript
+const thiago = {
+  código: ["PHP", "JavaScript", "Java", "Python"],
+  frameworks: ["Laravel", "SpringBoot","React", "Vue.js", "Docker", "AWS"],
+  foco: "Backend escalável, APIs robustas & Interfaces funcionais",
+  hobbies: ["Resolver problemas do mundo real", "Codar com criatividade", "Futebol nas praias da Bahia", "Aprender coisas novas", "Compartilhar conhecimento com o time", "Torcer para meu time (ECV - Vitória)"]
+};
+```
+
+💡 **Desenvolvedor Full-Stack** com foco em backend, apaixonado por criar soluções que realmente funcionam.  
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas (UCSAL - Presencial)**
+⚡ Atualmente construindo sistemas escaláveis na **JCompany TI**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+### Database & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoGuilherme71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&layout=compact&langs_count=8&theme=tokyonight"/>
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGuilherme71&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 Highlights
+
+```diff
++ 🎯 Redução de 45% em chamados de suporte com sistema de monitoramento
++ 💰 Módulo financeiro processando transações para centenas de empresas
++ 🚀 Plataforma White-Label em produção: bylinksolucoes.com.br
++ 📈 Migração de sistemas legados para arquitetura moderna
+```
+
+---
+
+## 📫 Vamos marcar um bate-papo?
+
+<div align="center">
+    
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguilhermebarbosa)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986949813)
+
+  <!--![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif )-->
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **Obrigado pela visita!**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ThiagoGuilherme71&color=3B82F6&style=flat-square)
+  [![WakaTime](https://wakatime.com/badge/user/32e03382-7f43-4fd2-ada4-4f396343da81.svg)](https://wakatime.com/@32e03382-7f43-4fd2-ada4-4f396343da81)
+  
+</div>
