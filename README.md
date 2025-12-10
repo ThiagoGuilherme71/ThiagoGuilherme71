@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack;Backend+Specialist;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack;Backend;Problem+Solver)](https://git.io/typing-svg)
   
   **Salvador, BA 🇧🇷 | Transformando café em código desde 2023 ☕→💻**
   
