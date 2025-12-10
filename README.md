@@ -81,12 +81,11 @@ const thiago = {
 + 🎯 Redução de 45% em chamados de suporte com sistema de monitoramento
 + 💰 Módulo financeiro processando transações para centenas de empresas
 + 🚀 Plataforma White-Label em produção: bylinksolucoes.com.br
-+ 📈 Migração de sistemas legados para arquitetura moderna
--->```
-
++ 📈 Migração de sistemas legados para arquitetura moderna```
 
 ---
 
+-->
 <div align="center">
   
   **Obrigado pela visita!**
