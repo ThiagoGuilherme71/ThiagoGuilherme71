@@ -26,7 +26,7 @@ const thiago = {
 };
 ```
 
-💡 **Desenvolvedor Full-Stack** com foco em backend, apaixonado por criar soluções que realmente funcionam.  
+💡 **Desenvolvedor Full-Stack** com foco em backend, entusiasmado em criar soluções que realmente funcionam.  
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (UCSAL - Presencial)**
 ⚡ Atualmente construindo sistemas escaláveis na **JCompany TI**
 
