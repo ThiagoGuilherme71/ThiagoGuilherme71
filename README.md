@@ -19,7 +19,7 @@
 ```javascript
 const thiago = {
   código: ["PHP", "JavaScript", "Java"],
-  frameworks: ["Laravel", "SpringBoot","React", "Vue.js", "Docker", "AWS"],
+  frameworks: ["Laravel", "SpringBoot", "Vue.js", "React", "Docker", "AWS"],
   foco: "Backend escalável, APIs robustas & Interfaces funcionais",
   hobbies: ["Resolver problemas do mundo real", "Codar com criatividade", "Futebol nas praias da Bahia", "Aprender coisas novas", "Compartilhar conhecimento com o time", "Torcer para meu time (ECV - Vitória)"]
 };
