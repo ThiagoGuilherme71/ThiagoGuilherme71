@@ -1,42 +1,67 @@
-# Thiago Guilherme | Desenvolvedor de Software
+# Thiago Guilherme | Desenvolvedor Full-Stack
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack;Backend;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack;Backend+%7C+APIs+%7C+Microservices;Transformando+Ideias+em+Soluções)](https://git.io/typing-svg)
   
   **Salvador, BA 🇧🇷 | Transformando café em código desde 2023 ☕→💻**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguilhermebarbosa)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986949813)
-  [![Portfólio](https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/ThiagoGuilherme71)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://portfolio-thiago-guilherme.vercel.app)
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 👤 Sobre Mim
+
+Desenvolvedor Full-Stack com **2+ anos de experiência** construindo sistemas escaláveis e APIs robustas. Eperiência em **PHP/Laravel** e **Java/Spring Boot**, com foco em criar soluções que resolvem problemas reais de negócio.
 
 ```javascript
 const thiago = {
-  código: ["PHP", "JavaScript", "Java", "API REST", "SOLID", "Microservices", "MVC"],
-  frameworks/tools: ["Laravel", "SpringBoot", "Vue.js", "React", "Docker", "AWS", "Figma"],
-  foco: "Backend escalável, APIs robustas & Interfaces funcionais",
-  hobbies: ["Resolver problemas do mundo real", "Codar com criatividade", "Futebol nas praias da Bahia",
- "Aprender coisas novas", "Compartilhar conhecimento com o time", "Torcer para meu time (ECV - Vitória)"]
+  localização: "Salvador, BA 🌴",
+  formação: "Análise e Desenvolvimento de Sistemas - UCSAL (Média 9.0)",
+  especialidade: "Backend escalável, Projetos Full-Stack, APIs REST & Microservices",
+  atualmente: "Desenvolvedor Full-Stack @ JCompany TI",
+  paixões: ["Resolver problemas reais", "Clean Code", "Futebol", "Compartilhar conhecimento"]
 };
 ```
+---
 
-💡 **Desenvolvedor Full-Stack** com foco em backend, entusiasmado em criar soluções que realmente funcionam.  
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas (UCSAL - Presencial)**
-⚡ Atualmente construindo sistemas escaláveis na **JCompany TI**
+## 🏆 Destaques & Conquistas
+
+```diff
++ 📉 Redução de 45% em chamados de suporte com SysLog
++ 💰 Módulo financeiro processando transações para centenas de empresas
++ 🚀 3 plataformas em produção: ByLink, SGLoc e sistemas municipais
++ 🎓 TCC aprovado com Distinção (Nota 10) - IA para moderação de conteúdo
++ 🏅 Participação em 2 Maratonas de Programação (ICPC)
++ 📊 Média acadêmica 9.0 em Análise e Desenvolvimento de Sistemas
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 Projetos em Destaque
 
 <div align="center">
 
-### Backend
+| Projeto | Descrição | Tech Stack | Link |
+|---------|-----------|------------|------|
+| **🔗 ByLink Soluções** | Plataforma SaaS White-Label para Recrutamento & Seleção com painel administrativo completo | Next.js, React, Python, PostgreSQL | [bylinksolucoes.com.br](https://bylinksolucoes.com.br) |
+| **📋 SysLog** | Monitoramento Centralizado de Logs com dashboard em tempo real. Redução de 45% em tickets | Laravel, Oracle, Docker, Chart.js | Produção Interna |
+| **🚗 SGLoc** | ERP Completo para Locadoras - Gestão de frotas, financeiro, contratos digitais | Laravel, React Native, Firebird, Redis | [sgloc.com.br](https://sgloc.com.br) |
+| **😡 DeHate** | App Agente de Limpeza da Toxicidade (TCC)  - App mobile com IA que filtra comentários tóxicos no YouTube, protegendo criadores e promovendo saúde mental | Python, FastAPI, React Native, LLM, UML, Design Patterns, Documentação | [github.com/orgs/DeHate/](https://github.com/orgs/DeHate/repositories) |
+
+</div>
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+
+### Backend & APIs
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,10 +75,10 @@ const thiago = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ### Database & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -61,37 +86,33 @@ const thiago = {
 
 </div>
 
+**🎯 Arquitetura & Boas Práticas:**  
+API REST • Microservices • MVC • SOLID • Clean Architecture • Design Patterns • TDD • CI/CD • Code Review
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGuilherme71&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 <!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoGuilherme71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGuilherme71&theme=tokyonight" alt="GitHub Streak"/>
 </div> -->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGuilherme71&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
 ---
 
-<!-- ## 🏆 Highlights
+## 💬 Vamos Conversar?
 
-```diff
-+ 🎯 Redução de 45% em chamados de suporte com sistema de monitoramento
-+ 💰 Módulo financeiro processando transações para centenas de empresas
-+ 🚀 Plataforma White-Label em produção: bylinksolucoes.com.br
-+ 📈 Migração de sistemas legados para arquitetura moderna```
-
----
-
--->
 <div align="center">
-  
-  **Obrigado pela visita!**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ThiagoGuilherme71&color=3B82F6&style=flat-square)
-  [![WakaTime](https://wakatime.com/badge/user/32e03382-7f43-4fd2-ada4-4f396343da81.svg)](https://wakatime.com/@32e03382-7f43-4fd2-ada4-4f396343da81)
-  
-</div>
+
+**Sempre há tempo para desafios e oportunidades!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguilhermebarbosa)
+[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986949813)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThiagoGuilherme71&color=3B82F6&style=flat-square)
+[![WakaTime](https://wakatime.com/badge/user/32e03382-7f43-4fd2-ada4-4f396343da81.svg)](https://wakatime.com/@32e03382-7f43-4fd2-ada4-4f396343da81)
