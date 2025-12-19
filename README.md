@@ -49,8 +49,7 @@ const thiago = {
 | Projeto | Descrição | Tech Stack | Link |
 |---------|-----------|------------|------|
 | **🔗 ByLink Soluções** | Plataforma SaaS White-Label para Recrutamento & Seleção com painel administrativo completo | Next.js, React, Python, PostgreSQL | [bylinksolucoes.com.br](https://bylinksolucoes.com.br) |
-| **📋 SysLog** | Monitoramento Centralizado de Logs com dashboard em tempo real. Redução de 45% em tickets | Laravel, Oracle, Docker, Chart.js | Produção Interna |
-| **🚗 SGLoc** | ERP Completo para Locadoras - Gestão de frotas, financeiro, contratos digitais | Laravel, React Native, Firebird, Redis | [sgloc.com.br](https://sgloc.com.br) |
+| **📋 SysLog** | Monitoramento Centralizado de Logs com dashboard em tempo real. Redução de 45% em tickets | Laravel, Oracle, Docker, Chart.js | Produção Interna (SEMGE) |
 | **😡 DeHate** | App Agente de Limpeza da Toxicidade (TCC)  - App mobile com IA que filtra comentários tóxicos no YouTube, protegendo criadores e promovendo saúde mental | Python, FastAPI, React Native, LLM, UML, Design Patterns, Documentação | [github.com/orgs/DeHate/](https://github.com/orgs/DeHate/repositories) |
 
 </div>
