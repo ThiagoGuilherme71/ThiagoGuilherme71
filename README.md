@@ -112,5 +112,6 @@ API REST • Microservices • MVC • SOLID • Clean Architecture • Design P
 [![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986949813)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ThiagoGuilherme71&color=3B82F6&style=flat-square)
 [![WakaTime](https://wakatime.com/badge/user/32e03382-7f43-4fd2-ada4-4f396343da81.svg)](https://wakatime.com/@32e03382-7f43-4fd2-ada4-4f396343da81)
+![Profile Views](https://komarev.com/ghpvc/?username=ThiagoGuilherme71&color=3B82F6&style=flat-square)
+
