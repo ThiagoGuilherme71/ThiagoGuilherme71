@@ -24,37 +24,20 @@ const thiago = {
   formação: "Análise e Desenvolvimento de Sistemas - UCSAL (Média 9.0)",
   especialidade: "Backend escalável, Projetos Full-Stack, APIs REST & Microservices",
   atualmente: "Desenvolvedor Full-Stack @ JCompany TI",
-  paixões: ["Resolver problemas reais", "Clean Code", "Futebol", "Compartilhar conhecimento"]
+  paixões: ["Resolver problemas reais", "Clean Code", "Futebol", "Compartilhar conhecimento"],
+  conquistas: ["Módulos financeiros em produção", "TCC com distinção (nota 10)", "Plataformas ativas (ByLink, SGLoc, DeHate)"]
 };
 ```
 ---
 
-## 🏆 Destaques & Conquistas
+## 🚀 Projetos
 
-```diff
-+ 📉 Redução de 45% em chamados de suporte com SysLog
-+ 💰 Módulo financeiro processando transações para centenas de empresas
-+ 🚀 3 plataformas em produção: ByLink, SGLoc e sistemas municipais
-+ 🎓 TCC aprovado com Distinção (Nota 10) - IA para moderação de conteúdo
-+ 🏅 Participação em 2 Maratonas de Programação (ICPC)
-+ 📊 Média acadêmica 9.0 em Análise e Desenvolvimento de Sistemas
-```
+- **ByLink** — SaaS White-Label · [Site](https://bylinksolucoes.com.br)
+- **SysLog** — Observabilidade · _Produção interna_
+- **DeHate** — IA contra toxicidade · [GitHub](https://github.com/orgs/DeHate/repositories)
+- **Portfólio** — Meu portfólio · [Site](https://portfolio-thiago-guilherme.vercel.app/)
 
----
 
-## 🎨 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Tech Stack | Link |
-|---------|-----------|------------|------|
-| **🔗 ByLink Soluções** | Plataforma SaaS White-Label para Recrutamento & Seleção com painel administrativo completo | Next.js, React, Python, PostgreSQL | [bylinksolucoes.com.br](https://bylinksolucoes.com.br) |
-| **📋 SysLog** | Monitoramento Centralizado de Logs com dashboard em tempo real. Redução de 45% em tickets | Laravel, Oracle, Docker, Chart.js | Produção Interna (SEMGE) |
-| **😡 DeHate** | App Agente de Limpeza da Toxicidade (TCC)  - App mobile com IA que filtra comentários tóxicos no YouTube, protegendo criadores e promovendo saúde mental | Python, FastAPI, React Native, LLM, UML, Design Patterns, Documentação | [github.com/orgs/DeHate/](https://github.com/orgs/DeHate/repositories) |
-
-</div>
-
----
 
 ## 🛠️ Stack Tecnológica
 
@@ -92,26 +75,11 @@ API REST • Microservices • MVC • SOLID • Clean Architecture • Design P
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGuilherme71&theme=tokyonight" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGuilherme71&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGuilherme71&theme=tokyonight" alt="GitHub Streak"/>
 </div> -->
-
----
-
-## 💬 Vamos Conversar?
-
-<div align="center">
-
-**Sempre há tempo para desafios e oportunidades!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguilhermebarbosa)
-[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986949813)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ThiagoGuilherme71&color=3B82F6&style=flat-square)
-[![WakaTime](https://wakatime.com/badge/user/32e03382-7f43-4fd2-ada4-4f396343da81.svg)](https://wakatime.com/@32e03382-7f43-4fd2-ada4-4f396343da81)
 
