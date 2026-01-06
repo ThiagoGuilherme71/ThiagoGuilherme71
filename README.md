@@ -76,7 +76,7 @@ API REST • Microservices • MVC • SOLID • Clean Architecture • Design P
 
 <div align="center">
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGuilherme71&theme=tokyonight" alt="GitHub Streak"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuilherme71&layout=compact&langs_count=8&theme=tokyonight"/> -->
 </div>
 
 <!-- <div align="center">
