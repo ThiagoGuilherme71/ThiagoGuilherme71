@@ -18,11 +18,11 @@ Desenvolvedor Full-Stack com **2+ anos de experiência** construindo sistemas es
 
 ```javascript
 const thiago = {
-  localização: "Salvador, BA 🌴",
-  formação: "ADS - UCSAL (Média 9.0)",
-  especialidade: "Backend escalável • APIs REST • Microservices",
-  atualmente: "Full-Stack @ JCompany TI",
-  conquistas: ["Módulos financeiros em produção", "TCC nota 10", "Plataformas ativas: ByLink, SGLoc, DeHate"]
+  localizacao: "📍 Salvador, BA 🌴",
+  formacao: "🎓 ADS - UCSAL (Média 9.0)",
+  especialidade: "🧠 Backend escalável • APIs REST • Microservices",
+  atualmente: "💼 Full-Stack @ JCompany TI",
+  conquistas: "🏆 Implementação de Módulos Financeiros • TCC nota 10 (DeHate) • Plataformas em produção: ByLink, SGLoc, DeHate"
 };
 ```
 
