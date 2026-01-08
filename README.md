@@ -21,7 +21,7 @@ const thiago = {
   localizacao: "📍 Salvador, BA 🌴",
   formacao: "🎓 ADS - UCSAL (Média 9.0)",
   especialidade: "🧠 Backend escalável • APIs REST • Microservices",
-  atualmente: "💼 Full-Stack @ JCompany TI",
+  atualmente: "💼 Dev Full-Stack PHP @ JCompany TI",
   conquistas: "🏆 Implementação de Módulos Financeiros • TCC nota 10 (DeHate) • Plataformas em produção: ByLink, SGLoc, DeHate"
 };
 ```
