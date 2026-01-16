@@ -31,7 +31,7 @@ const thiago = {
 **ByLink** — SaaS White-Label · [Site](https://bylinksolucoes.com.br) | **Portfólio** — [Site](https://portfolio-thiago-guilherme.vercel.app/) | **SysLog** — Observabilidade em produção | **DeHate** — IA contra toxicidade · [GitHub](https://github.com/orgs/DeHate/repositories)
 
 ## 🛠️ Stack Tecnológica
-
+ 
 <div align="center">
 
 **Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
