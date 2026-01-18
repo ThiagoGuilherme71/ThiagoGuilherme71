@@ -3,7 +3,7 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=550&lines=Desenvolvedor+Full-Stack;Backend+%7C+APIs+%7C+Microservices)](https://git.io/typing-svg)
-  
+   
   **Salvador, BA 🇧🇷 | Transformando café em código desde 2023 ☕→💻**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguilhermebarbosa)
