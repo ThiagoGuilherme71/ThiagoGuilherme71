@@ -12,7 +12,7 @@
   [![Portfólio](https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://portfolio-thiago-guilherme.vercel.app)
 </div> 
   
-## 👤 Sobre Mim
+## 👤 Sobre Mim 
 
 Desenvolvedor Full-Stack com **2+ anos de experiência** construindo sistemas escaláveis e APIs robustas. Atuação principal em **PHP/Laravel** e **Java/Spring Boot**, com foco em criar soluções que resolvem problemas reais de negócio.
  
