@@ -28,7 +28,7 @@ const thiago = {
 
 ## 🚀 Projetos em Destaque
 
-**ByLink** — SaaS White-Label · [Site](https://bylinksolucoes.com.br) | **Portfólio** — [Site](https://portfolio-thiago-guilherme.vercel.app/) | **SysLog** — Observabilidade em produção | **DeHate** — IA contra toxicidade · [GitHub](https://github.com/orgs/DeHate/repositories)
+**ByLink** — SaaS White-Label · [Site](https://bylinksolucoes.com.br) | **Portfólio** — [Site](https://portfolio-thiago-guilherme.vercel.app/) | **SysLog** — Em produção interna | **DeHate** — IA contra toxicidade · [GitHub](https://github.com/orgs/DeHate/repositories)
 
 ## 🛠️ Stack Tecnológica
  
