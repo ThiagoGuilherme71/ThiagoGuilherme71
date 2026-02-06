@@ -7,7 +7,7 @@
   **Salvador, BA 🇧🇷 | Transformando café em código desde 2023 ☕→💻** 
    
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguilhermebarbosa)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com) 
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986949813)
   [![Portfólio](https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://portfolio-thiago-guilherme.vercel.app)
 </div> 
