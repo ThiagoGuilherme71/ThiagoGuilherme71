@@ -40,7 +40,7 @@ const thiago = {
 
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-**Arquitetura:** API REST • Microservices • MVC • SOLID • Clean Architecture • Design Patterns • TDD • CI/CD
+API REST • Microservices • MVC • SOLID • Clean Architecture • Design Patterns • TDD • CI/CD
 
 </div>
 
