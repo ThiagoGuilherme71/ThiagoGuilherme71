@@ -22,7 +22,12 @@ const thiago = {
   formacao: "🎓 ADS - UCSAL (Média 9.0)",
   especialidade: "🧠 Backend escalável • APIs REST • Microservices",
   atualmente: "💼 Software Engineer at @PRODEB",
-  conquistas: "🏆 Implementação de Módulos Financeiros • Sistemas de Gestão (público & privado) • TCC nota 10 (DeHate) • Plataformas em produção: ByLink, SGLoc, DeHate"
+  conquistas: [
+    "🏆 Implementação de Módulos Financeiros",
+    "🏛️ Sistemas de Gestão (público & privado)",
+    "🎓 TCC nota 10 (DeHate)",
+    "🚀 Plataformas em produção: ByLink, SGLoc, SGLoc-booking, DeHate"
+  ]
 };
 ```
 
