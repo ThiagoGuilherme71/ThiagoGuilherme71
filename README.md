@@ -24,9 +24,9 @@ const thiago = {
   atualmente: "💼 Software Engineer at @PRODEB",
   conquistas: [
     "🏆 Implementação de Módulos Financeiros",
-    "🏛️ Sistemas de Gestão (público & privado)",
+    "🏛️ Vivência em Sistemas de Gestão (público & privado)",
     "🎓 TCC nota 10 (DeHate)",
-    "🚀 Plataformas em produção: ByLink, SGLoc, SGLoc-booking, DeHate"
+    "🚀 Plataformas em produção: ByLink, SysLog, SGLoc-Booking, DeHate"
   ]
 };
 ```
