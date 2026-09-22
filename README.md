@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=550&lines=Desenvolvedor+Full-Stack;Backend+%7C+APIs+%7C+Microservices)](https://git.io/typing-svg)
    
-  **Salvador, BA 🇧🇷 | Transformando café em código desde 2023 ☕→💻** 
+  **Salvador, BA 🇧🇷 | Transformando café em código ☕→💻** 
    
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguilhermebarbosa)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoguilherme.barbosaa@gmail.com) 
@@ -14,7 +14,7 @@
   
 ## 👤 Sobre Mim
 
-Desenvolvedor Full-Stack com **2+ anos de experiência** construindo sistemas escaláveis e APIs robustas. Atuação principal em **PHP/Laravel** e **Java/Spring Boot**, com foco em criar soluções que resolvem problemas reais.
+Desenvolvedor Full-Stack construindo sistemas escaláveis e APIs robustas. Atuação principal em **PHP** e Java, com foco em criar soluções que resolvem problemas reais.
  
 ```javascript
 const thiago = {
